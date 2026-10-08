@@ -1,0 +1,7374 @@
+[
+  {
+    "_id": {
+      "$oid": "a41be38ac7a61c7e42a9f172"
+    },
+    "Age": 20,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9766,
+    "longitude": 77.5993,
+    "Pin code": 560001,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "9b76a6b660a23a849092edd0"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a0ccbb47e850b72401e21afa"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9551,
+    "longitude": 77.6593,
+    "Pin code": 560017,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "6949be05b85ce28a439ecc29"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9473,
+    "longitude": 77.5616,
+    "Pin code": 560019,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "7cf6d290554283a1505ef19e"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "6628196a70e5ba1639c4491e"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9299,
+    "longitude": 77.6848,
+    "Pin code": 560103,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4219eb057f7c39c6d67e942d"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2fe749a9473fca429c445cac"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9828,
+    "longitude": 77.6131,
+    "Pin code": 560042,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "58f228732c0f7b1b1395e2d4"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9766,
+    "longitude": 77.5993,
+    "Pin code": 560001,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8748c9efea68d3b771efb2ed"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9854,
+    "longitude": 77.7081,
+    "Pin code": 560048,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "191913dec18216a04e2c1469"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "f2374f6934e0c291536686f5"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "80199c19ee42415d084071c7"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.8988,
+    "longitude": 77.5764,
+    "Pin code": 560078,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a6dd742c80c12a31a8e076f6"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e5d8a0a863c8ab328b00d7e8"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9438,
+    "longitude": 77.5738,
+    "Pin code": 560004,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "97348b92b0b60706deddaa31"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.8893,
+    "longitude": 77.6399,
+    "Pin code": 560068,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "94699b6a06feb3a41cf1ed81"
+    },
+    "Age": 28,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e8771e4d93ebf42ee6612d85"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.982,
+    "longitude": 77.6256,
+    "Pin code": 560008,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "11ba78612c51f8f4bf113a9f"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.8988,
+    "longitude": 77.5764,
+    "Pin code": 560078,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1de4b0028f6dd2a96d1ec833"
+    },
+    "Age": 21,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a67fde4a6fa7afd71fda60d0"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "5c6afa0099fddc0d1297e963"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0298,
+    "longitude": 77.6047,
+    "Pin code": 560032,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "04c69169bd2af28d3653362f"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9983,
+    "longitude": 77.6409,
+    "Pin code": 560033,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "6c6b8d4c9ad5d9537f1ff1ee"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9925,
+    "longitude": 77.5633,
+    "Pin code": 560021,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "596c785b1007499b6c3b2939"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9306,
+    "longitude": 77.5434,
+    "Pin code": 560085,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8e24a926a6de9b3e22cf9ceb"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.982,
+    "longitude": 77.6256,
+    "Pin code": 560008,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4d54ada5d173c3d4c8ecb5cf"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9353,
+    "longitude": 77.5585,
+    "Pin code": 560050,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "f153d0639539ab801cd15917"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9155,
+    "longitude": 77.5135,
+    "Pin code": 560098,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a7b752614b558e849d03776f"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9854,
+    "longitude": 77.7081,
+    "Pin code": 560048,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4f0de20ee3e9fc3585ac2f0f"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0019,
+    "longitude": 77.5713,
+    "Pin code": 560003,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "484d16dd0148899b349c1db8"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "Pin code": 560066,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8b956890335a5cfe91b712ec"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a6a7d8d5131bf86f3e51ee97"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "ecb175efba2d6fa2490a4bae"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "41a76116f11f6e7c6e393a27"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9119,
+    "longitude": 77.6446,
+    "Pin code": 560102,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "88df2b69c07bb339a37543b1"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9306,
+    "longitude": 77.5434,
+    "Pin code": 560085,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0d33f2f4b9f8b7d3afa8cc10"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "c501702f05acb000a9551f7d"
+    },
+    "Age": 32,
+    "Gender": "Female",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "House wife",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.982,
+    "longitude": 77.6256,
+    "Pin code": 560008,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "660ce29f587d02c260786f42"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9438,
+    "longitude": 77.5738,
+    "Pin code": 560004,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "89bbdabebcb2759d65cb5485"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.8988,
+    "longitude": 77.5764,
+    "Pin code": 560078,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "930163c8cb9abb9b9741731d"
+    },
+    "Age": 30,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Uneducated",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9662,
+    "longitude": 77.6068,
+    "Pin code": 560025,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "fe48a41eb189454813221f4d"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9565,
+    "longitude": 77.5484,
+    "Pin code": 560026,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "529c62703db8058850b4f966"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9925,
+    "longitude": 77.5633,
+    "Pin code": 560021,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "366b9e141445891197e934c6"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c50930702cb85ce00459adca"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c6b6b413c1321e350a59bca4"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "11e8605fa9f6215e5fd00409"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "881b6d3ce9ab658ab5203927"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "f8f39b79546f1aacc497e47d"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.982,
+    "longitude": 77.6256,
+    "Pin code": 560008,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "150b2959bcd01a14bf7909aa"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "fdd592f1ae1795bb538ff188"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0206,
+    "longitude": 77.6479,
+    "Pin code": 560043,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "fcf0b425ff2b6f24f5d723e6"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "28c4ecbc857eda71d17043be"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "18acd7b5b631e3119eeff868"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9635,
+    "longitude": 77.5821,
+    "Pin code": 560002,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "698251687c8519d31ac48d43"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9306,
+    "longitude": 77.5434,
+    "Pin code": 560085,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "fe8010e32cca4bd266f11fab"
+    },
+    "Age": 28,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0067,
+    "longitude": 77.545,
+    "Pin code": 560086,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d147e641a9f7ae49636038a4"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "6dbafef3272e4fd34f285307"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "36c2fb9159b4ba659062b32d"
+    },
+    "Age": 31,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9119,
+    "longitude": 77.6446,
+    "Pin code": 560102,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d0cc80eb5337c5f4886e1fa9"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0067,
+    "longitude": 77.545,
+    "Pin code": 560086,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0de73242a9f9fb62b03bbaf1"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.8988,
+    "longitude": 77.5764,
+    "Pin code": 560078,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8f681055a04844eb1ff5113d"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "3e6dde97b0ff03947276cafd"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 13.0158,
+    "longitude": 77.539,
+    "Pin code": 560096,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "5fef7cde409b8c882fc01cbe"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9343,
+    "longitude": 77.6044,
+    "Pin code": 560029,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c3f78d631b5edc4f5e6122b9"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0019,
+    "longitude": 77.5713,
+    "Pin code": 560003,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a2583022a0ac9a2e69a4159e"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 13.0012,
+    "longitude": 77.5995,
+    "Pin code": 560046,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a16aa36e87fe699b20785565"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9442,
+    "longitude": 77.6076,
+    "Pin code": 560030,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "97fe7adea8922703f96b41ac"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0487,
+    "longitude": 77.5923,
+    "Pin code": 560024,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4eb04722aab17c11343a1bfe"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0487,
+    "longitude": 77.5923,
+    "Pin code": 560024,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d31feda4133d801791aac4f9"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9438,
+    "longitude": 77.5738,
+    "Pin code": 560004,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "3cb2efd46d5e89d6353864ed"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9889,
+    "longitude": 77.5741,
+    "Pin code": 560020,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8ed7ae550019d06d18fdca3b"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9335,
+    "longitude": 77.5691,
+    "Pin code": 560028,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "b495a72a0d7c94d83b8127b1"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9766,
+    "longitude": 77.5993,
+    "Pin code": 560001,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "83da3d622e21a8601e490159"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d6d7a569632290fd9b5c840a"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0019,
+    "longitude": 77.5713,
+    "Pin code": 560003,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8929a74c8c329fac8728fe3c"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.102,
+    "longitude": 77.5864,
+    "Pin code": 560064,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "825854e953e1a71dd8a5a185"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9048,
+    "longitude": 77.6821,
+    "Pin code": 560036,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "de07c566492743c4ff726783"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "9f795849b0bec909e8422297"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "dd14d67620f076d95fa2e88c"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9337,
+    "longitude": 77.59,
+    "Pin code": 560011,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "fc903fdcbc25f4cf327365f4"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9037,
+    "longitude": 77.5376,
+    "Pin code": 560061,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "06a8f58d8b8753205a741c3e"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d1f3bf7295a1b9faa4a8af71"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9343,
+    "longitude": 77.6044,
+    "Pin code": 560029,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "f0fdcccda20e683d242bb663"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9438,
+    "longitude": 77.5738,
+    "Pin code": 560004,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "ff72a6d14019f53af34038f1"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "53987bb98caf507d210a393e"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c45ee2ed1511b69a2a44da58"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9337,
+    "longitude": 77.59,
+    "Pin code": 560011,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c10fc6a47d03e6757b15e4ea"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "3e0fbd5232f9ace16feb7009"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "3c7097341ec74761e9533c05"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0289,
+    "longitude": 77.54,
+    "Pin code": 560022,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "63f7067025fcf2ff9a700e89"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0289,
+    "longitude": 77.54,
+    "Pin code": 560022,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "bd4caca55e4fbdc09126d1cd"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "Pin code": 560066,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "f34cc7a52ca2b84f21ffe643"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "fc7ff00153556e6fb739c783"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "65ca71f01cd823c134d45fd1"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.9561,
+    "longitude": 77.5921,
+    "Pin code": 560027,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "b30ab1afc5240e5fdf22854b"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4cbeded7b6d0cc3f359e6b58"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0206,
+    "longitude": 77.6479,
+    "Pin code": 560043,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0440a75203a38e8d3ad94cb9"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0206,
+    "longitude": 77.6479,
+    "Pin code": 560043,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e8ec5df0ab054784a7fdc242"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9579,
+    "longitude": 77.6309,
+    "Pin code": 560007,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "ff098300f6a1eb6e4962cf6f"
+    },
+    "Age": 32,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "House wife",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Uneducated",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.014,
+    "longitude": 77.5658,
+    "Pin code": 560012,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "b7fd5fa050ce8f2d90e0099f"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9335,
+    "longitude": 77.5691,
+    "Pin code": 560028,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "c42bebf932d2a044c8cd2a82"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9442,
+    "longitude": 77.6076,
+    "Pin code": 560030,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "74f418a073115ed366031592"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "Pin code": 560066,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "877c92304b667fcf374ffa5e"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9438,
+    "longitude": 77.5738,
+    "Pin code": 560004,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "72ad1153655fec3e632aa579"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "507d40657aa9209cae94cd8d"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "Pin code": 560066,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "8d62ad57c3df11f4d5f4da47"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "Pin code": 560066,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "7949144720a91ba9204016dc"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.9343,
+    "longitude": 77.6044,
+    "Pin code": 560029,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "bfe853f39b84784afce4fa89"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "Pin code": 560066,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "771438fcbd2a2b1455b0a13c"
+    },
+    "Age": 18,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9635,
+    "longitude": 77.5821,
+    "Pin code": 560002,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a5333b5ab6f4a0380f6d9948"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2eab4a41fe911003cde0d8ff"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.9343,
+    "longitude": 77.6044,
+    "Pin code": 560029,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0224eb3ad723707e24ad7dde"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9925,
+    "longitude": 77.5633,
+    "Pin code": 560021,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "b77c057023574539013d9e4d"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0206,
+    "longitude": 77.6479,
+    "Pin code": 560043,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "976f8ffc3ed0cbf2f6f394ee"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d8c786c11e86787a309990d2"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9551,
+    "longitude": 77.6593,
+    "Pin code": 560017,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "b76f4c2d7e20fc0607fc9929"
+    },
+    "Age": 31,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "House wife",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "School",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0289,
+    "longitude": 77.54,
+    "Pin code": 560022,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4121611ffa83c1920204184e"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0138,
+    "longitude": 77.5877,
+    "Pin code": 560006,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "ee56291cdebba55209883e65"
+    },
+    "Age": 32,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1a2386db81a8c38c7d25993c"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9766,
+    "longitude": 77.5993,
+    "Pin code": 560001,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "7a2de5535260decfffee7923"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9766,
+    "longitude": 77.5993,
+    "Pin code": 560001,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "cc0aaf212aec2bcebe955001"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9766,
+    "longitude": 77.5993,
+    "Pin code": 560001,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1e00f4534fda1079c960ee65"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9635,
+    "longitude": 77.5821,
+    "Pin code": 560002,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e831f14aed8cbf02bfaf1b44"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9635,
+    "longitude": 77.5821,
+    "Pin code": 560002,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "7c8ec263d769b039d50330ca"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9635,
+    "longitude": 77.5821,
+    "Pin code": 560002,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "8f9fd5979fe346ddd54dcf9d"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9635,
+    "longitude": 77.5821,
+    "Pin code": 560002,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "03d4a034d66300a5c0fae543"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4e8c5e73583ae8ab0af4479d"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "aa5e5a283c60048c1f1032b2"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "62dd2e53b4ad4e88b3bf24d1"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0487,
+    "longitude": 77.5923,
+    "Pin code": 560024,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a4d7a75f6c7d46893d391785"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0019,
+    "longitude": 77.5713,
+    "Pin code": 560003,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d066f0adb1acb4063b08b43b"
+    },
+    "Age": 32,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 13.0019,
+    "longitude": 77.5713,
+    "Pin code": 560003,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "8d808fa6830bf52a327ba9a5"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0019,
+    "longitude": 77.5713,
+    "Pin code": 560003,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "875d84f02f38641623b5548b"
+    },
+    "Age": 19,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0019,
+    "longitude": 77.5713,
+    "Pin code": 560003,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "047a9b022167e70346ecdc5c"
+    },
+    "Age": 19,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9537,
+    "longitude": 77.6176,
+    "Pin code": 560047,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "25c4ec1d9ebb05da4e5bc13b"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "Pin code": 560066,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "02dc0feb218be59e03308929"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.998,
+    "longitude": 77.6227,
+    "Pin code": 560005,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c5be427937606b59c756bad9"
+    },
+    "Age": 33,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.998,
+    "longitude": 77.6227,
+    "Pin code": 560005,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "41f2587919b648d363e2b5a6"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.998,
+    "longitude": 77.6227,
+    "Pin code": 560005,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "6cb50ed10dd7de4e4f5a9fbe"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9343,
+    "longitude": 77.6044,
+    "Pin code": 560029,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "61e723e4ac89996500a5ea14"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.102,
+    "longitude": 77.5864,
+    "Pin code": 560064,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "3edf23e98ae764119203f258"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0158,
+    "longitude": 77.539,
+    "Pin code": 560096,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "de8baf17755decf69ebcad97"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.998,
+    "longitude": 77.6227,
+    "Pin code": 560005,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8fb3bd75f0c5b26f437ce792"
+    },
+    "Age": 30,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "House wife",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "School",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.998,
+    "longitude": 77.6227,
+    "Pin code": 560005,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "b803b6ce81998085f14d2cff"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0138,
+    "longitude": 77.5877,
+    "Pin code": 560006,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "3d974ee329b138897393f8c7"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0138,
+    "longitude": 77.5877,
+    "Pin code": 560006,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1d766bf26cf292d653266099"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1a5e6ad0228206b4582f197d"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0496,
+    "longitude": 77.4941,
+    "Pin code": 560073,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "b03d762f12eac0088ef88b3f"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "611064524e7028f0b33b3ebe"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9889,
+    "longitude": 77.5741,
+    "Pin code": 560020,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "10d850e38eaa48b539496ae8"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "ad935ed6f10035d74d96bb67"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0487,
+    "longitude": 77.5923,
+    "Pin code": 560024,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e5396775a7b19e3693b28e38"
+    },
+    "Age": 20,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9579,
+    "longitude": 77.6309,
+    "Pin code": 560007,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "69138de4d307763db3775e53"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9579,
+    "longitude": 77.6309,
+    "Pin code": 560007,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "74c3f7249af172297b721e66"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9579,
+    "longitude": 77.6309,
+    "Pin code": 560007,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "481c4dc44a02049fdea95b48"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0487,
+    "longitude": 77.5923,
+    "Pin code": 560024,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e44e27aa04ccf74846065657"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "888e11a8cb2ff2a45219dc14"
+    },
+    "Age": 32,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "House wife",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "5ca7b050d372dc11785b42a4"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "aecd33c1b5490aa839eb3558"
+    },
+    "Age": 20,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9337,
+    "longitude": 77.59,
+    "Pin code": 560011,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "b0b66c35030a66c86527aa4e"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9337,
+    "longitude": 77.59,
+    "Pin code": 560011,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c10f9b0b30f6e9bec13da53e"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9337,
+    "longitude": 77.59,
+    "Pin code": 560011,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "cf729d2649f769eb4266a5fe"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0166,
+    "longitude": 77.6804,
+    "Pin code": 560016,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "576c68b2c0e9e80816e9fd95"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.014,
+    "longitude": 77.5658,
+    "Pin code": 560012,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "64ae3b0e2831d437dc1235a5"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.014,
+    "longitude": 77.5658,
+    "Pin code": 560012,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8293c594cf0ed4291c2908d3"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0503,
+    "longitude": 77.5529,
+    "Pin code": 560013,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "904a1e78266e766e7aeec087"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0503,
+    "longitude": 77.5529,
+    "Pin code": 560013,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "f3db3edb24044abe03570cab"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9883,
+    "longitude": 77.5987,
+    "Pin code": 560051,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "22d981f20e71d8339841d9fa"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "School",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0626,
+    "longitude": 77.5284,
+    "Pin code": 560015,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "064bac791123ead4ee57d21b"
+    },
+    "Age": 20,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0626,
+    "longitude": 77.5284,
+    "Pin code": 560015,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "afd86540077a719e118b5b79"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 13.0626,
+    "longitude": 77.5284,
+    "Pin code": 560015,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "3d6eded46fbf960e225b62af"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0166,
+    "longitude": 77.6804,
+    "Pin code": 560016,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "341f11c557c6ed512c89cf6f"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 13.0166,
+    "longitude": 77.6804,
+    "Pin code": 560016,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "672fd856bd5f53dacba2f490"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9551,
+    "longitude": 77.6593,
+    "Pin code": 560017,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "36c70ebd1336fe8d2348eac0"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9551,
+    "longitude": 77.6593,
+    "Pin code": 560017,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0dcc7745964db5ed199593b7"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9551,
+    "longitude": 77.6593,
+    "Pin code": 560017,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "36872af60f5ed5b4350f59e5"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.957,
+    "longitude": 77.5637,
+    "Pin code": 560018,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "0e606e7f97d58e1072baeee7"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.957,
+    "longitude": 77.5637,
+    "Pin code": 560018,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "e0066e526cdc955fa24a02ff"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.957,
+    "longitude": 77.5637,
+    "Pin code": 560018,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2d45bb1eec04af8f468bb6cd"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.957,
+    "longitude": 77.5637,
+    "Pin code": 560018,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "cfd044742a9bd1659710a068"
+    },
+    "Age": 29,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.957,
+    "longitude": 77.5637,
+    "Pin code": 560018,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "4236ccee68d9d378c24e1d42"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.8652,
+    "longitude": 77.524,
+    "Pin code": 560109,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1420e6012adddb81d90da9c8"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "Pin code": 560066,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "394f8323840af0dc7b480ff7"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9889,
+    "longitude": 77.5741,
+    "Pin code": 560020,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "89a4d7ae01fd77a08f8c5187"
+    },
+    "Age": 32,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "House wife",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "School",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9889,
+    "longitude": 77.5741,
+    "Pin code": 560020,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c54d6456f6eed5f668ed3de9"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.9925,
+    "longitude": 77.5633,
+    "Pin code": 560021,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a543242ef325521329b7c364"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2e9b866efd55f8bfe9c38ad6"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9757,
+    "longitude": 77.5586,
+    "Pin code": 560023,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "68a5dba2ea7f4be07ad28c4d"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9757,
+    "longitude": 77.5586,
+    "Pin code": 560023,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "337aa94cee83cc6eb87cd3b5"
+    },
+    "Age": 31,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "School",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 13.0487,
+    "longitude": 77.5923,
+    "Pin code": 560024,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "fa035118fd4db5c19a6cb66c"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0487,
+    "longitude": 77.5923,
+    "Pin code": 560024,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "f5017932236e781e3cfb2089"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9662,
+    "longitude": 77.6068,
+    "Pin code": 560025,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "7bfb227b227e4737d357fbb3"
+    },
+    "Age": 31,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9662,
+    "longitude": 77.6068,
+    "Pin code": 560025,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "dff4119de8168ac51190a572"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9343,
+    "longitude": 77.6044,
+    "Pin code": 560029,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c925ea22776e771faf041023"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9343,
+    "longitude": 77.6044,
+    "Pin code": 560029,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "6ee3fe3a29b4a577699565d1"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9343,
+    "longitude": 77.6044,
+    "Pin code": 560029,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "fad08be489cb1362d17ce281"
+    },
+    "Age": 19,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9442,
+    "longitude": 77.6076,
+    "Pin code": 560030,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "67ea3468be2b249dab5d3bcd"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9442,
+    "longitude": 77.6076,
+    "Pin code": 560030,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "258e4abe45d91c180d057ce2"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "House wife",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "School",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9442,
+    "longitude": 77.6076,
+    "Pin code": 560030,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "cc3f9444d5ecd33b40042acb"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0298,
+    "longitude": 77.6047,
+    "Pin code": 560032,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "95f657f3f1964dc08771d635"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "da519f48b74d153bd5bc6fff"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9621,
+    "longitude": 77.5376,
+    "Pin code": 560104,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4b8339a10457cd8924f7a0c2"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1af3349c4723562530f9f811"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9048,
+    "longitude": 77.6821,
+    "Pin code": 560036,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "3af592dd5b32cc2621b01c16"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9048,
+    "longitude": 77.6821,
+    "Pin code": 560036,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "259d56c12d86379e64cedc9b"
+    },
+    "Age": 20,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "63f5550759bdbc5335d7ec3f"
+    },
+    "Age": 29,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "3a2cbb1ead71063afb4059bc"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "04f028f54a4d2636c8751a7f"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "08ebda702c8c6e972c58bcb1"
+    },
+    "Age": 29,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "c7095417cfb02bda0b03e1da"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9217,
+    "longitude": 77.5936,
+    "Pin code": 560041,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "d1cb6336fec364a096b41681"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0206,
+    "longitude": 77.6479,
+    "Pin code": 560043,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "31e4255e7532f38900de3d60"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0012,
+    "longitude": 77.5995,
+    "Pin code": 560046,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "27b854f6ea9895816002563b"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0223,
+    "longitude": 77.7132,
+    "Pin code": 560049,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a7f24f389832858a64c99d9d"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9337,
+    "longitude": 77.59,
+    "Pin code": 560011,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "02c7e5929996e2f79a24fb40"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "School",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.982,
+    "longitude": 77.6256,
+    "Pin code": 560008,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "ffa1df969e9e28b28b8e9d7d"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0262,
+    "longitude": 77.62,
+    "Pin code": 560045,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "976068ebb6eb5d9753122d58"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9217,
+    "longitude": 77.5936,
+    "Pin code": 560041,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "ca51921d6046adc2c083add2"
+    },
+    "Age": 31,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "House wife",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0078,
+    "longitude": 77.5577,
+    "Pin code": 560055,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "00385514e7896a69cb508d1b"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0078,
+    "longitude": 77.5577,
+    "Pin code": 560055,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1ead696363d9f8f7370d4440"
+    },
+    "Age": 21,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.9217,
+    "longitude": 77.5936,
+    "Pin code": 560041,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "63e9dbc17cdeccab91ddce72"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9105,
+    "longitude": 77.4842,
+    "Pin code": 560060,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "9ba58905d4443e50846a6eba"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9105,
+    "longitude": 77.4842,
+    "Pin code": 560060,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "996b8bbd8c70ac0f720e984c"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9037,
+    "longitude": 77.5376,
+    "Pin code": 560061,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c70c9a1307ffff9172f30157"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.8834,
+    "longitude": 77.5486,
+    "Pin code": 560062,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0a36af5f0abb6575dbefecc2"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9149,
+    "longitude": 77.5635,
+    "Pin code": 560070,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "933b48d70e7f964ecf9676c9"
+    },
+    "Age": 21,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9149,
+    "longitude": 77.5635,
+    "Pin code": 560070,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "32b1ca64b8d2cc301f786847"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9706,
+    "longitude": 77.6529,
+    "Pin code": 560075,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "cb495b187d5ccab4a796430b"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9706,
+    "longitude": 77.6529,
+    "Pin code": 560075,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "aaecdd069c7512dce5714604"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9706,
+    "longitude": 77.6529,
+    "Pin code": 560075,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1189056644875d0e6a0b93bd"
+    },
+    "Age": 29,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e5650c4ff748f88cd52cc635"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e8e713395ec1126e00c20bdb"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0103,
+    "longitude": 77.5796,
+    "Pin code": 560080,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "20d439c77a0cf9913ef43eb3"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0103,
+    "longitude": 77.5796,
+    "Pin code": 560080,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "378253f03a076f5fe61927ef"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9306,
+    "longitude": 77.5434,
+    "Pin code": 560085,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "3ff8172d0589d240a1b3e57a"
+    },
+    "Age": 29,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0641,
+    "longitude": 77.5931,
+    "Pin code": 560092,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "d259f07f8eb9b7927bf88ec5"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0158,
+    "longitude": 77.539,
+    "Pin code": 560096,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0c23786343708bb5c59a8018"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9561,
+    "longitude": 77.5921,
+    "Pin code": 560027,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "af3b0fac69ca745aa8f692f6"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "9ae0098c726a6c5aecc484bc"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "9e780b3fa866178ab793f4e6"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "798a761f0cd315714b97ee4a"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "cd74741d0889ec483713c6e6"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8caec99007bf1fcccbcfdcb0"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0158,
+    "longitude": 77.539,
+    "Pin code": 560096,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "5f48913e2dba78f4ab955f7f"
+    },
+    "Age": 30,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 13.0809,
+    "longitude": 77.5565,
+    "Pin code": 560097,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "232e1c452bfa9283be5a9e47"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0641,
+    "longitude": 77.5931,
+    "Pin code": 560092,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "381b60de7a12461a043868bf"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9859,
+    "longitude": 77.6713,
+    "Pin code": 560093,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "cbfa36bff01a407ffb91002a"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "School",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9859,
+    "longitude": 77.6713,
+    "Pin code": 560093,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d3932e1ddc2e1478a62ce799"
+    },
+    "Age": 31,
+    "Gender": "Male",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Employee",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.9866,
+    "longitude": 77.4904,
+    "Pin code": 560091,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "44a68a114abbc6f7cf8d4d3f"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9847,
+    "longitude": 77.5491,
+    "Pin code": 560100,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "411bf3c454da6e1e7271ca62"
+    },
+    "Age": 29,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9847,
+    "longitude": 77.5491,
+    "Pin code": 560100,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8c303de88d34960df70e4be2"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9847,
+    "longitude": 77.5491,
+    "Pin code": 560100,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "653b644db9fb83eeecbf5cc7"
+    },
+    "Age": 20,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9299,
+    "longitude": 77.6848,
+    "Pin code": 560103,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "846fe64a9898384922265e2c"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9299,
+    "longitude": 77.6848,
+    "Pin code": 560103,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "af3a17997902086e60731f28"
+    },
+    "Age": 30,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "House wife",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "School",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9828,
+    "longitude": 77.6131,
+    "Pin code": 560042,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "9a3410fefec06affc9840f38"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.989,
+    "longitude": 77.5332,
+    "Pin code": 560079,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1f9178b5a59d63c26bd84380"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "4dd5ca22b721561e8830b9ea"
+    },
+    "Age": 30,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "School",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9251,
+    "longitude": 77.4992,
+    "Pin code": 560059,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "38f16c31a9d139e34cfe5f96"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9967,
+    "longitude": 77.7582,
+    "Pin code": 560067,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "083d050da48ddee9e5a48561"
+    },
+    "Age": 28,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9967,
+    "longitude": 77.7582,
+    "Pin code": 560067,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "eaf6b9e828e779705693f4d4"
+    },
+    "Age": 30,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9967,
+    "longitude": 77.7582,
+    "Pin code": 560067,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4df18c9d005575bf50ed7bbc"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.957,
+    "longitude": 77.5637,
+    "Pin code": 560018,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "3e239d22c817780c8e58051a"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.957,
+    "longitude": 77.5637,
+    "Pin code": 560018,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "3505da7f9858a243b2ed5f1f"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9889,
+    "longitude": 77.5741,
+    "Pin code": 560020,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "79950ff03ac5244a8630e75c"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0206,
+    "longitude": 77.6479,
+    "Pin code": 560043,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0440493361541ae61f62121f"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.8893,
+    "longitude": 77.6399,
+    "Pin code": 560068,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "37e569f646a2be9a612b366e"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.8893,
+    "longitude": 77.6399,
+    "Pin code": 560068,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "e97eac1a0daffff4f7c369a7"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9967,
+    "longitude": 77.7582,
+    "Pin code": 560067,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2dfc8255397c4bd362ce87c8"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "68c892e8d400d6ff47d52f96"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0ca5e601820531b0b8cf7bf1"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9925,
+    "longitude": 77.5633,
+    "Pin code": 560021,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "49985610eb71552931997385"
+    },
+    "Age": 21,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9925,
+    "longitude": 77.5633,
+    "Pin code": 560021,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "870adc7591a02fcd73aef379"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9561,
+    "longitude": 77.5921,
+    "Pin code": 560027,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "aec5a4bacf8971a876e42f45"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9561,
+    "longitude": 77.5921,
+    "Pin code": 560027,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a08070d33cc9e07bf73842cb"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0734,
+    "longitude": 77.5464,
+    "Pin code": 560014,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "ed18c4216aa9fd252367766b"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0487,
+    "longitude": 77.5923,
+    "Pin code": 560024,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "bd5a9b0e7dbafd8ef6df439d"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9515,
+    "longitude": 77.4921,
+    "Pin code": 560056,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c5578b78e3efbe1afdfcd290"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9515,
+    "longitude": 77.4921,
+    "Pin code": 560056,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a75117e6c3c73aedc2a9ba7b"
+    },
+    "Age": 30,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9719,
+    "longitude": 77.5128,
+    "Pin code": 560072,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "49eca4e63b3fe51941536a93"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9048,
+    "longitude": 77.6821,
+    "Pin code": 560036,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "939a118686080f5ce386c806"
+    },
+    "Age": 19,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9048,
+    "longitude": 77.6821,
+    "Pin code": 560036,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "ebc0410c0dc19e988a74297f"
+    },
+    "Age": 21,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0103,
+    "longitude": 77.5796,
+    "Pin code": 560080,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0088170cef424f8a28dabd08"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 13.0103,
+    "longitude": 77.5796,
+    "Pin code": 560080,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0cf0372191398a2ac986ec78"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.8893,
+    "longitude": 77.6399,
+    "Pin code": 560068,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "32670502cc501ed7a8cb0585"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9828,
+    "longitude": 77.6131,
+    "Pin code": 560042,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "93a2392dfe337d1caaad112b"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9757,
+    "longitude": 77.5586,
+    "Pin code": 560023,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "095d3217d4b3567e9a317048"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9757,
+    "longitude": 77.5586,
+    "Pin code": 560023,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "865139cc0d59284a4d2061c2"
+    },
+    "Age": 28,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9757,
+    "longitude": 77.5586,
+    "Pin code": 560023,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "592ece4032384ce64d7f4066"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0734,
+    "longitude": 77.5464,
+    "Pin code": 560014,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "de8e44d43e0d438f41dd13d6"
+    },
+    "Age": 20,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0734,
+    "longitude": 77.5464,
+    "Pin code": 560014,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "c247340bf2aedf29222e677c"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 13.0734,
+    "longitude": 77.5464,
+    "Pin code": 560014,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "bf4efc90758bc478ef233944"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0626,
+    "longitude": 77.5284,
+    "Pin code": 560015,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "8ae36f3bdaddde045d25c17b"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0626,
+    "longitude": 77.5284,
+    "Pin code": 560015,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "1303e77c9bb84348dd223b93"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "b571740452d4494fd83bccfe"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.998,
+    "longitude": 77.6227,
+    "Pin code": 560005,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "d461532312934f8dd154ef19"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0626,
+    "longitude": 77.5284,
+    "Pin code": 560015,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "3670d18abd3fd44f361fc515"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0626,
+    "longitude": 77.5284,
+    "Pin code": 560015,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "44821747156bb42f7edbc3b6"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 13.0138,
+    "longitude": 77.5877,
+    "Pin code": 560006,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "b96d4e99ca40639948a45db1"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0138,
+    "longitude": 77.5877,
+    "Pin code": 560006,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "06cb0941a453f2019812fcdf"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 13.014,
+    "longitude": 77.5658,
+    "Pin code": 560012,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "a79d284ee5ac2a7bd64d24df"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9551,
+    "longitude": 77.6593,
+    "Pin code": 560017,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "f7fd8f1aebc0ba2c22eb87d1"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9473,
+    "longitude": 77.5616,
+    "Pin code": 560019,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "39ec9e73a9d56df0360a3702"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "bab3f04dee99518dd55ca8d2"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9299,
+    "longitude": 77.6848,
+    "Pin code": 560103,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "f340e74772051e2c03f807b7"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "6b403645652e3003d1c68ff4"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9828,
+    "longitude": 77.6131,
+    "Pin code": 560042,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "be1cfeb9489787c0c54ba16e"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9766,
+    "longitude": 77.5993,
+    "Pin code": 560001,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1a4fc8ea00ac5eb36ee4ec9e"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9854,
+    "longitude": 77.7081,
+    "Pin code": 560048,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d4f56a4353033d0a0797d7fa"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "049bdd4f251a018f5c1a0c72"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "7f7cf23275fbddf187e98774"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9037,
+    "longitude": 77.5376,
+    "Pin code": 560061,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "434b4057357e796a7bc14cb6"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.8834,
+    "longitude": 77.5486,
+    "Pin code": 560062,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "9eebf29c7f562452962786fd"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9149,
+    "longitude": 77.5635,
+    "Pin code": 560070,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "92645f7b5ab03cdb3dd9984a"
+    },
+    "Age": 21,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9149,
+    "longitude": 77.5635,
+    "Pin code": 560070,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "6905ce363878fad8efbd39ee"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9706,
+    "longitude": 77.6529,
+    "Pin code": 560075,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "62c7f0e05a4fed63ecb30b85"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9706,
+    "longitude": 77.6529,
+    "Pin code": 560075,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "be6c8efc9dc0f76dad54c2c5"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9706,
+    "longitude": 77.6529,
+    "Pin code": 560075,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "7fd59c7fc53dc4739963d8a1"
+    },
+    "Age": 29,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "78deda7715104cddaa9464dc"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "0d908dacc3c811b5ab813a65"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0103,
+    "longitude": 77.5796,
+    "Pin code": 560080,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "fb3274176ac378a55c4cdb81"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0103,
+    "longitude": 77.5796,
+    "Pin code": 560080,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "b06a8d1c3304791d08c1d05a"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9306,
+    "longitude": 77.5434,
+    "Pin code": 560085,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4e0744200f367b902eb7084a"
+    },
+    "Age": 29,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0641,
+    "longitude": 77.5931,
+    "Pin code": 560092,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "545472fdcad4783899f818b6"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0158,
+    "longitude": 77.539,
+    "Pin code": 560096,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "db749b2df67ffd986a02e262"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9561,
+    "longitude": 77.5921,
+    "Pin code": 560027,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "7225ad066630e2a1286df858"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "66a1ce4f4e7cc722334f8c84"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "532b9f51f87a13a49b56f5aa"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "4a47255fbcbd4e953d33c9b6"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8ba080d9b91746ff353d60e7"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "01f287bfe5251703e6613a7e"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9048,
+    "longitude": 77.6821,
+    "Pin code": 560036,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "40192b2500c88c7a87028d91"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9048,
+    "longitude": 77.6821,
+    "Pin code": 560036,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d8da4e876082287060d3ba3d"
+    },
+    "Age": 20,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2957f2c1742b5201acc9343f"
+    },
+    "Age": 29,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "52b9661f66e03cccf699ca4e"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d5aea94447102c94100679cc"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "201e16ef4ca3c5ddf0d312bf"
+    },
+    "Age": 29,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "399b02cf2254d190f6c51e91"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9217,
+    "longitude": 77.5936,
+    "Pin code": 560041,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "4adf112cafab9dfe50b10be2"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0206,
+    "longitude": 77.6479,
+    "Pin code": 560043,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a471e193b558fa7ab25711ce"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0012,
+    "longitude": 77.5995,
+    "Pin code": 560046,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "7bfb1be76263718bc4ed1e36"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0223,
+    "longitude": 77.7132,
+    "Pin code": 560049,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "959551268bdb24606af3d346"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9337,
+    "longitude": 77.59,
+    "Pin code": 560011,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "8404f2cf6c5e8bc84b7a81a6"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "School",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.982,
+    "longitude": 77.6256,
+    "Pin code": 560008,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e90b3c44c762304207435bbc"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 13.0262,
+    "longitude": 77.62,
+    "Pin code": 560045,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1ac8995331b601d6e1ca5f6f"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9217,
+    "longitude": 77.5936,
+    "Pin code": 560041,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "c2a2977e0f0acf87ab37a716"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "7b5333c8439fb2b353888f1b"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9048,
+    "longitude": 77.6821,
+    "Pin code": 560036,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2c7e5aa895b3586f4e44982a"
+    },
+    "Age": 25,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9048,
+    "longitude": 77.6821,
+    "Pin code": 560036,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "411cdef69feace63fbebbf6c"
+    },
+    "Age": 20,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "ba56ef3a9e1312ba14ed8ae2"
+    },
+    "Age": 29,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9261,
+    "longitude": 77.6221,
+    "Pin code": 560034,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "2503661ceed5ff479163b1a1"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "52b1f2e9b5cbe538379f6aef"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "aec786a69ab60f5dfa0334d5"
+    },
+    "Age": 29,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "f82defbce50a59dabb470d48"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9217,
+    "longitude": 77.5936,
+    "Pin code": 560041,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "dfa7434d777a0d63d25f0dcc"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0206,
+    "longitude": 77.6479,
+    "Pin code": 560043,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "ae0cc8a736aa02f64dd427c4"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0012,
+    "longitude": 77.5995,
+    "Pin code": 560046,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "edddaf796ea8571bf7f420c3"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9706,
+    "longitude": 77.6529,
+    "Pin code": 560075,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "770abbd1a920e921d6de9dde"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "10001 to 25000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9706,
+    "longitude": 77.6529,
+    "Pin code": 560075,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "e41ecd1e7da52108c92968a3"
+    },
+    "Age": 32,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9706,
+    "longitude": 77.6529,
+    "Pin code": 560075,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a5adaa5535bbe5bcb9af0540"
+    },
+    "Age": 29,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e1107722e4296a6fa19430f3"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.9783,
+    "longitude": 77.6408,
+    "Pin code": 560038,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "16aaaa81e195b024292bc286"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0103,
+    "longitude": 77.5796,
+    "Pin code": 560080,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "280e7c6f2eb72bef5e25d205"
+    },
+    "Age": 26,
+    "Gender": "Male",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0103,
+    "longitude": 77.5796,
+    "Pin code": 560080,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "9b4d0bd2cf384825f9b54628"
+    },
+    "Age": 31,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Ph.D",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9306,
+    "longitude": 77.5434,
+    "Pin code": 560085,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "d4f7c0033b7eac5f4a7a8aef"
+    },
+    "Age": 29,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0641,
+    "longitude": 77.5931,
+    "Pin code": 560092,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "fef8ee85b9205edcb189f718"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0158,
+    "longitude": 77.539,
+    "Pin code": 560096,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2ad2beda5d021f9cedc9b491"
+    },
+    "Age": 24,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9561,
+    "longitude": 77.5921,
+    "Pin code": 560027,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "209c3c9b1c5d77f579e840da"
+    },
+    "Age": 27,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.8845,
+    "longitude": 77.6036,
+    "Pin code": 560076,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "087fb0ca9cb0a29a1f08fe63"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "No",
+    "Feedback": "Positive",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "b9f655cdb91f8a79df8ca739"
+    },
+    "Age": 30,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "bf75d47aed386c6edfcc7ded"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2039150c9f254b5ef0e2f085"
+    },
+    "Age": 28,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9369,
+    "longitude": 77.6407,
+    "Pin code": 560095,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "522942a810332c7a86595fe1"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 13.0158,
+    "longitude": 77.539,
+    "Pin code": 560096,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e1a1032a0ff6285adde97fcf"
+    },
+    "Age": 30,
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 13.0809,
+    "longitude": 77.5565,
+    "Pin code": 560097,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "7d8ac84b7b29f2c8edef1846"
+    },
+    "Age": 21,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 13.0641,
+    "longitude": 77.5931,
+    "Pin code": 560092,
+    "Output": "Yes",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "e8b331c8decb4350c80f9eeb"
+    },
+    "Age": 26,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 6,
+    "Customer Type": "Frequent",
+    "latitude": 12.9859,
+    "longitude": 77.6713,
+    "Pin code": 560093,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "b0c36a40c791eb2c9ccdc601"
+    },
+    "Age": 25,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Self Employeed",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "School",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9859,
+    "longitude": 77.6713,
+    "Pin code": 560093,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "3f17359241df951585e97d45"
+    },
+    "Age": 31,
+    "Gender": "Male",
+    "Marital Status": "Prefer not to say",
+    "Occupation": "Employee",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Graduate",
+    "Family size": 1,
+    "Customer Type": "New",
+    "latitude": 12.9866,
+    "longitude": 77.4904,
+    "Pin code": 560091,
+    "Output": "No",
+    "Feedback": "Negative ",
+    "Unnamed: 13": "No"
+  },
+  {
+    "_id": {
+      "$oid": "e89187c1715448482bf80923"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Employee",
+    "Monthly Income": "25001 to 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9847,
+    "longitude": 77.5491,
+    "Pin code": 560100,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "1682497c1f9d6de04b662d78"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "2070f629903b09c6d3870864"
+    },
+    "Age": 27,
+    "Gender": "Female",
+    "Marital Status": "Married",
+    "Occupation": "Employee",
+    "Monthly Income": "More than 50000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9299,
+    "longitude": 77.6848,
+    "Pin code": 560103,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "379bd94a4bce9922996b81c6"
+    },
+    "Age": 22,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "53726880c63e2f0b99846b7a"
+    },
+    "Age": 24,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 3,
+    "Customer Type": "Regular",
+    "latitude": 12.9828,
+    "longitude": 77.6131,
+    "Pin code": 560042,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "7116521023fb86f1860d6f43"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.9766,
+    "longitude": 77.5993,
+    "Pin code": 560001,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "aba1199b4ff3bca734f5f140"
+    },
+    "Age": 23,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 4,
+    "Customer Type": "Frequent",
+    "latitude": 12.9854,
+    "longitude": 77.7081,
+    "Pin code": 560048,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "b795216a33158a5493afbba8"
+    },
+    "Age": 22,
+    "Gender": "Female",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.985,
+    "longitude": 77.5533,
+    "Pin code": 560010,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "bb8facdac9f9c4f616b9ae28"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "Below Rs.10000",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 2,
+    "Customer Type": "Regular",
+    "latitude": 12.977,
+    "longitude": 77.5773,
+    "Pin code": 560009,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "a4d9ea8c224fd2f69c553d7b"
+    },
+    "Age": 23,
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Occupation": "Student",
+    "Monthly Income": "No Income",
+    "Educational Qualifications": "Post Graduate",
+    "Family size": 5,
+    "Customer Type": "Frequent",
+    "latitude": 12.8988,
+    "longitude": 77.5764,
+    "Pin code": 560078,
+    "Output": "Yes",
+    "Feedback": "Positive",
+    "Unnamed: 13": "Yes"
+  }
+]
