@@ -1,0 +1,99 @@
+1. CREATE DATABASE
+
+use foodDeliveryDB
+
+
+
+2. CREATE COLLECTION
+
+db.createCollection("customers")
+
+
+
+3. INSERT CUSTOMER DETAILS
+
+db.customers.insertMany([ ... ]) // (Data array inserted here)
+
+
+
+4. DISPLAY ONLY SPECIFIC FIELDS (Age, Gender, Feedback)
+
+db.customers.find({}, {"Age": 1, "Gender": 1, "Feedback": 1, "_id": 0})
+
+
+
+5. FIND CUSTOMERS BY OCCUPATION (Student)
+
+db.customers.find({"Occupation": "Student"})
+
+
+
+6. FIND CUSTOMERS WITH POSITIVE FEEDBACK
+
+db.customers.find({"Feedback": "Positive"})
+
+
+
+7. FIND CUSTOMERS OLDER THAN 22
+
+db.customers.find({"Age": {$gt: 22}})
+
+
+
+8. FIND CUSTOMERS BETWEEN AGE 20 AND 25
+
+db.customers.find({"Age": {$gte: 20, $lte: 25}})
+
+
+
+9. FIND CUSTOMERS WITH FAMILY SIZE GREATER THAN 3
+
+db.customers.find({"Family size": {$gt: 3}})
+
+
+
+10. FIND CUSTOMERS BY MULTIPLE CONDITIONS (Female AND Positive Feedback)
+
+db.customers.find({"Gender": "Female", "Feedback": "Positive"})
+
+
+
+11. OR OPERATION (Graduate OR Post Graduate)
+
+db.customers.find({ $or: [ {"Educational Qualifications": "Graduate"}, {"Educational Qualifications": "Post Graduate"} ] })
+
+
+
+12. SORT CUSTOMERS BY AGE - ASCENDING
+
+db.customers.find().sort({"Age": 1})
+
+
+
+13. SORT CUSTOMERS BY FAMILY SIZE - DESCENDING
+
+db.customers.find().sort({"Family size": -1})
+
+
+
+14. FIND TOP 5 OLDEST CUSTOMERS
+
+db.customers.find().sort({"Age": -1}).limit(5)
+
+
+
+15. COUNT TOTAL CUSTOMERS
+
+db.customers.countDocuments()
+
+
+
+16. UPDATE A RECORD (Update Feedback)
+
+db.customers.updateOne({"Age": 22, "Pin code": 560017}, {$set: {"Feedback": "Positive"}})
+
+
+
+17. DELETE A RECORD
+
+db.customers.deleteMany({"Output": "No"})
